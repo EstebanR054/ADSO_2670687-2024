@@ -1,0 +1,13 @@
+header{
+    min-height: 200px;
+    background: black;
+}
+.page{
+    min-height: 200px;
+    background: black;
+}
+footer {
+    min-height: 200px;
+    background: black;
+}
+
